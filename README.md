@@ -5,7 +5,7 @@
 ### 📫 How to reach me
 
 [![Static Badge](https://skillicons.dev/icons?i=instagram)
-](https://www.instagram.com/goku_chann_)
+[](https://www.instagram.com/goku_chann_)
 
 ### Languages & Tools
 
@@ -15,9 +15,8 @@
 </p>
 
 ### Current Status
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sumit-poudel&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sumit-poudel&theme=dark&hide_border=false&show_icons=true&locale=en)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumit-poudel&theme=dark&hide_border=false)
-
-[![](https://visitcount.itsvg.in/api?id=sumit-poudel&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
